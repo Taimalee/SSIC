@@ -87,7 +87,7 @@ The system uses five main rules to determine watering time:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Taimalee/SSIC
-cd smart-irrigation-controller
+cd SSIC
 ```
 
 2. Install Python dependencies:
