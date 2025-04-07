@@ -2,6 +2,12 @@
 
 A smart irrigation system that uses fuzzy logic to determine optimal watering times based on environmental conditions. The system takes into account soil moisture, temperature, and sunlight intensity to make intelligent watering decisions.
 
+
+
+## Home Page 
+
+![SSIC](https://github.com/Taimalee/SSIC/blob/master/SSic.png)
+
 ## Overview
 
 This project implements an intelligent irrigation controller using fuzzy logic principles. It provides both a backend system for calculations and a modern web interface for user interaction.
