@@ -86,7 +86,7 @@ The system uses five main rules to determine watering time:
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/Taimalee/SSIC)
+git clone https://github.com/Taimalee/SSIC
 cd smart-irrigation-controller
 ```
 
